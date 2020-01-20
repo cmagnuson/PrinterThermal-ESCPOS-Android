@@ -2,13 +2,30 @@
 
 Usefull library to help Android developers to print with bluetooth thermal printers ESC/POS.
 
+
 ## Android version
 
 Developed for SDK version 16 (Android 4.1 Jelly Bean) and above.
 
+
 ## Printer tested
 
 Tested with [HOIN Bluetooth Thermal Printer ESC / POS](https://www.gearbest.com/printers/pp_662658.html).
+
+
+## Installation
+
+### With git clone :
+To install this library, just clone it into the `/app/src/main/java` directory.
+```
+cd [YOUR_PROJECT_DIRECTORY]/app/src/main/java
+git clone https://github.com/DantSu/PrinterThermal-ESCPOS-Android.git .
+```
+
+### With zip file :
+
+You can also download the zip file and unzip the `lib` directory in `[YOUR_PROJECT_DIRECTORY]/app/src/main/java`.
+
 
 ## Bluetooth permission
 
@@ -62,6 +79,7 @@ printer
 Below a picture of the receipt printed with the code above :
 
 ![Example of a printed receipt](http://www.developpeur-web.dantsu.com/files/librairie/receipt-thermal-printer.png)
+
 
 ## Formatted Text : Syntax guide
 
