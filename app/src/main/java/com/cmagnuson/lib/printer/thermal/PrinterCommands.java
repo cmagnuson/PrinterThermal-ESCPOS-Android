@@ -1,4 +1,4 @@
-package lib.printer.thermal;
+package com.cmagnuson.lib.printer.thermal;
 
 public class PrinterCommands {
     public static final int TIME_BETWEEN_TWO_PRINT = 150;

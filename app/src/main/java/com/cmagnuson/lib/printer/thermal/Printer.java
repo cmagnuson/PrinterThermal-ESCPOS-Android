@@ -1,15 +1,15 @@
-package lib.printer.thermal;
+package com.cmagnuson.lib.printer.thermal;
 
 import android.graphics.Bitmap;
 
-import lib.printer.thermal.bluetooth.BluetoothPrinterSocketConnexion;
-import lib.printer.thermal.textparser.PrinterTextParser;
-import lib.printer.thermal.textparser.PrinterTextParserBarcode;
-import lib.printer.thermal.textparser.PrinterTextParserColumn;
-import lib.printer.thermal.textparser.PrinterTextParserElement;
-import lib.printer.thermal.textparser.PrinterTextParserImg;
-import lib.printer.thermal.textparser.PrinterTextParserLine;
-import lib.printer.thermal.textparser.PrinterTextParserString;
+import com.cmagnuson.lib.printer.thermal.bluetooth.BluetoothPrinterSocketConnexion;
+import com.cmagnuson.lib.printer.thermal.textparser.PrinterTextParser;
+import com.cmagnuson.lib.printer.thermal.textparser.PrinterTextParserBarcode;
+import com.cmagnuson.lib.printer.thermal.textparser.PrinterTextParserColumn;
+import com.cmagnuson.lib.printer.thermal.textparser.PrinterTextParserElement;
+import com.cmagnuson.lib.printer.thermal.textparser.PrinterTextParserImg;
+import com.cmagnuson.lib.printer.thermal.textparser.PrinterTextParserLine;
+import com.cmagnuson.lib.printer.thermal.textparser.PrinterTextParserString;
 
 public class Printer {
     

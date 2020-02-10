@@ -1,4 +1,4 @@
-package lib.printer.thermal.bluetooth;
+package com.cmagnuson.lib.printer.thermal.bluetooth;
 
 import android.bluetooth.BluetoothDevice;
 import android.graphics.Bitmap;
@@ -6,8 +6,8 @@ import android.graphics.Bitmap;
 import java.io.IOException;
 import java.io.OutputStream;
 
-import lib.bluetooth.BluetoothDeviceSocketConnexion;
-import lib.printer.thermal.PrinterCommands;
+import com.cmagnuson.lib.bluetooth.BluetoothDeviceSocketConnexion;
+import com.cmagnuson.lib.printer.thermal.PrinterCommands;
 
 public class BluetoothPrinterSocketConnexion extends BluetoothDeviceSocketConnexion {
     

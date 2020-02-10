@@ -1,4 +1,4 @@
-package lib.printer.thermal.textparser;
+package com.cmagnuson.lib.printer.thermal.textparser;
 
 import java.util.Hashtable;
 

@@ -1,8 +1,8 @@
-package lib.printer.thermal.textparser;
+package com.cmagnuson.lib.printer.thermal.textparser;
 
 import java.util.Arrays;
 
-import lib.printer.thermal.PrinterCommands;
+import com.cmagnuson.lib.printer.thermal.PrinterCommands;
 
 public class PrinterTextParserString implements PrinterTextParserElement {
     private String text;

@@ -1,6 +1,6 @@
-package lib.printer.thermal.bluetooth;
+package com.cmagnuson.lib.printer.thermal.bluetooth;
 
-import lib.bluetooth.*;
+import com.cmagnuson.lib.bluetooth.*;
 import android.bluetooth.BluetoothClass;
 
 

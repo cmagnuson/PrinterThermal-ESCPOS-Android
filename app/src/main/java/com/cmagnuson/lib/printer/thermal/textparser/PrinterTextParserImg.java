@@ -1,11 +1,11 @@
-package lib.printer.thermal.textparser;
+package com.cmagnuson.lib.printer.thermal.textparser;
 
 import android.graphics.Bitmap;
 import android.graphics.drawable.BitmapDrawable;
 import android.graphics.drawable.Drawable;
 
-import lib.printer.thermal.Printer;
-import lib.printer.thermal.PrinterCommands;
+import com.cmagnuson.lib.printer.thermal.Printer;
+import com.cmagnuson.lib.printer.thermal.PrinterCommands;
 
 
 public class PrinterTextParserImg implements PrinterTextParserElement {

@@ -1,4 +1,4 @@
-package lib.bluetooth;
+package com.cmagnuson.lib.bluetooth;
 
 import android.bluetooth.BluetoothDevice;
 import android.bluetooth.BluetoothSocket;
